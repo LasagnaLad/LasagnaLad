@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LasagnaLad, but you can call me Alex
 - 👀 I’m interested in all things technology
 - 🌱 I’m currently learning Python, Java, C++, Full Stack Development, Robotics, Electronics, and Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: You can email me
 
 <!---
 LasagnaLad/LasagnaLad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
